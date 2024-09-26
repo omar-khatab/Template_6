@@ -1,1 +1,1 @@
-https://omar-khatab.github.io/Template_6/
+https://omar-khatab.github.io/dashbord-template/
